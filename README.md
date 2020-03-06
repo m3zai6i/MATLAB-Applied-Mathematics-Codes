@@ -6,6 +6,7 @@ Solve the following predator prey system numerically using Matlab building funct
 Initial conditions:[ 4, 12 ]
 
 x′(t)	=	4x(t)−7x(t)y(t)
+
 y′(t)	=−9y(t) + 7x(t)y(t)
  
 Note: The variables x and y measure the sizes of the prey and predator populations, respectively.

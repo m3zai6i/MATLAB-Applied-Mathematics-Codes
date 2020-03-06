@@ -1,6 +1,6 @@
 %% Shahzaib Asif
-% Reg. 281799
 % sasif.mscse19s@rcms.nust.edu.pk
+
 clc
 clear
 close all
